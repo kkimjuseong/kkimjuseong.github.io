@@ -33,7 +33,7 @@
 body{
 background: rgb(192, 192, 192);
 position: relative;
-background-image: url(/LuckyRoulette/img/background.jpg);
+background-image: url(/luckyroulette/img/background.jpg);
 }
 
 .topTitle{
@@ -86,7 +86,7 @@ background-image: url(/LuckyRoulette/img/background.jpg);
 .StartContainer{
 	width: 100%;
 	height: 99vh;
-	background-image: url(/LuckyRoulette/img/background.jpg);
+	background-image: url(/luckyroulette/img/background.jpg);
 	/* background: rgb(209, 209, 209); */
 	position:absolute;
 	z-index: 10;
